@@ -80,36 +80,13 @@ me.say_hi()
 <div align="center">
 
 ### 🔥 LeetCode Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/NxBI5R4pLA?theme=light&font=Karma&ext=activity)](https://leetcode.com/NxBI5R4pLA)
-
-### 📈 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical"/>
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)](https://git.io/streak-stats)
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 Contribution Graph
-[![Sejal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)](https://github.com/YOUR_GITHUB_USERNAME)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NxBI5R4pLA?theme=dark&font=Fira%20Code&ext=heatmap)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
 
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_1&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_2&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_2)
-
-</div>
-
----
 
 ## 💭 Random Dev Quote
 
