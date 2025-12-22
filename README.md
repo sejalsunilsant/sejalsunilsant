@@ -80,7 +80,7 @@ me.say_hi()
 <div align="center">
 
 ### 🔥 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/NxBI5R4pLA?theme=dark&font=Fira%20Code&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sejal_Sant?theme=dark&font=Fira%20Code&ext=heatmap)
 
 </div>
 
