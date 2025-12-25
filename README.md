@@ -14,10 +14,10 @@
 ```python
 class SejalSant:
     def __init__(self):
-        self.location = "Pune, Maharashtra, IN"
+        self.location = "Ichalkaranji, Maharashtra, IN"
         self.education = "Aspiring AI & Data Science Engineer"
         self.interests = ["Machine Learning", "Data Science", "AI", "Problem Solving"]
-        self.currently_learning = ["Deep Learning", "Advanced Algorithms", "Cloud Computing"]
+        self.currently_learning = ["Deep Learning", "Advanced Algorithms", "Generative AI"]
         self.goals_2025 = ["Build impactful AI projects", "Contribute to open source", "Master DSA"]
     
     def say_hi(self):
